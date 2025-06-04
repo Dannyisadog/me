@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+header {
+  @apply w-full min-h-48 flex gap-8 flex-col sm:flex-row sm:justify-between sm:items-center;
+}
+
+.header-block {
+  @apply flex flex-col gap-4;
+}
+
+.block-item {
+  @apply flex items-center gap-2;
+}

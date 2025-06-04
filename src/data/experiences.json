@@ -1,0 +1,80 @@
+[
+    {
+        "company": "KKCompany",
+        "website": "https://www.kkcompany.com/",
+        "position": "Senior Engineer",
+        "duration": "Jun 2022 – Present",
+        "items": [
+            {
+                "description": "Led the migration of an internal system from Flutter to Next.js, resulting in a ~40% improvement in performance and scalability."
+            },
+            {
+                "description": "Developed cross-platform internal apps using Flutter for iOS, Android, and Web, unifying codebase and reducing maintenance cost."
+            },
+            {
+                "description": "Built a reusable component library based on MUI, and created a project template with integrated authentication (NextAuth)."
+            },
+            {
+                "description": "Designed and implemented a consistent and scalable design system by integrating MUI themes with designers in Figma."
+            },
+            {
+                "description": "Introduced Cypress to perform E2E tests on key user flows, raising test coverage."
+            },
+            {
+                "description": "Utilized Tolgee for i18n support, enabling product localization and easier language management across teams."
+            },
+            {
+                "description": "Built a user-specific analytics dashboard using ApexCharts and React, helping product managers gain insights into real-time data."
+            },
+            {
+                "description": "Created RESTful APIs using FastAPI, SQLAlchemy, and Pydantic, focusing on performance with async operations and robust validation."
+            },
+            {
+                "description": "Containerized services using Docker and Docker Compose, simplifying local development and deployment pipelines."
+            },
+            {
+                "description": "Integrated Cerbos for fine-grained access control, implementing both RBAC and ABAC policies."
+            },
+            {
+                "description": "Wrote unit and integration tests with pytest, ensuring backend stability and system correctness."
+            }
+        ]
+    },
+    {
+        "company": "MAYO",
+        "website": "https://www.mayohr.com",
+        "position": "Frontend Engineer",
+        "duration": "Mar 2022 – May 2022",
+        "items": [
+            {
+                "description": "Collaborated on the development of new features for Lasso."
+            },
+            {
+                "description": "Delivered enhancements aligned with business goals in a fast-paced Agile environment."
+            }
+        ]
+    },
+    {
+        "company": "Pcone",
+        "website": "https://www.pcone.com.tw",
+        "position": "Software Engineer",
+        "duration": "Mar 2020 – Mar 2022",
+        "items": [
+            {
+                "description": "Applied Vue2 in the development of the merchant system, enhancing the frontend capabilities."
+            },
+            {
+                "description": "Contributed to the internal system development using PHP, focusing on robust and scalable solutions."
+            },
+            {
+                "description": "Designed and implemented APIs to facilitate seamless communication between the frontend and backend systems."
+            },
+            {
+                "description": "Created reusable components using Vue2 and React, promoting code reuse and consistency across projects."
+            },
+            {
+                "description": "Updated the testing database by restoring snapshots using AWS RDS, ensuring data integrity and availability."
+            }
+        ]
+    }
+]

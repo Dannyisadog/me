@@ -1,0 +1,31 @@
+{
+    "Frontend": [
+        "react",
+        "Next.js",
+        "MUI",
+        "react query",
+        "Cypress"
+    ],
+    "Backend": [
+        "php",
+        "python",
+        "FastAPI",
+        "SQLAlchemy",
+        "Pydantic",
+        "RESTful APIs"
+    ],
+    "Testing": [
+        "Cypress (E2E)",
+        "pytest (unit testing)"
+    ],
+    "Authentication / Authorization": [
+        "NextAuth",
+        "Cerbos"
+    ],
+    "Design & i18n": [
+        "Figma",
+        "Design System",
+        "MUI Theming",
+        "Tolgee"
+    ]
+}

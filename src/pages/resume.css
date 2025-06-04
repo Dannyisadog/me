@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.resume {
+  @apply flex flex-col gap-10;
+}

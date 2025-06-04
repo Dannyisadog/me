@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+.skill-block-content {
+  @apply mt-4 flex flex-col gap-2;
+}
+
+.skill-item {
+  @apply list-disc;
+}
+
+.skill-key {
+  @apply font-bold;
+}
