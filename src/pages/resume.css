@@ -1,5 +1,9 @@
 @import "tailwindcss";
 
 .resume {
-  @apply flex flex-col gap-10;
+  @apply flex flex-col gap-10 p-8 bg-blue-500/5 sm:rounded-4xl;
+}
+
+.logo {
+  @apply fixed w-100 sm:w-140 bottom-0 left-0 opacity-5;
 }

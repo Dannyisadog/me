@@ -7,3 +7,7 @@
 .experience-block-content {
   @apply list-disc mt-4 flex flex-col gap-2;
 }
+
+.company {
+  @apply underline
+}
