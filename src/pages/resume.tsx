@@ -6,6 +6,7 @@ import "./resume.css";
 const Resume = () => {
   return (
     <div className="resume">
+      <img src="/logo.svg" alt="logo" className="logo" />
       <Header />
       <SkillBlock />
       <ExperiencesBlock />
