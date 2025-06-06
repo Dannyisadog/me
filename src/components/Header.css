@@ -11,3 +11,7 @@ header {
 .block-item {
   @apply flex items-center gap-2;
 }
+
+.github-link {
+  @apply underline;
+}
