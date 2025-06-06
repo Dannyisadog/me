@@ -5,6 +5,7 @@ export type Skill = {
 
 export type Experience = {
   company: string;
+  website: string;
   position: string;
   duration: string;
   items: {
