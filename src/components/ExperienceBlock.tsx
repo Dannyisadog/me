@@ -7,12 +7,21 @@ interface ExperienceBlockProps {
 
 const ExperienceBlock = (props: ExperienceBlockProps) => {
   const { experience } = props;
-  const { company, position, duration, items } = experience;
+  const { company, website, position, duration, items } = experience;
 
   return (
     <div className="experience-block">
       <div className="experience-block-header">
-        <h3>{company}</h3>
+        <h3>
+          <a
+            className="experience-block-company"
+            href={website}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            {company}
+          </a>
+        </h3>
         <p>
           {position} | {duration}
         </p>
