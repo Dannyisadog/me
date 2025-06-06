@@ -45,7 +45,11 @@ const Header = () => {
         </div>
         <div className="block-item">
           <img src="/github.png" alt="github" width={24} height={24} />
-          <a href="https://github.com/dannyisadog" target="_blank">
+          <a
+            className="github-link"
+            href="https://github.com/dannyisadog"
+            target="_blank"
+          >
             github.com/dannyisadog
           </a>
         </div>
