@@ -1,5 +1,9 @@
 @import "tailwindcss";
 
+.background-image {
+  @apply fixed left-0 bottom-0 ml-4 w-full h-full bg-[url('/logo.svg')] bg-no-repeat bg-left bg-contain -z-10 opacity-5;
+}
+
 .resume {
   @apply flex flex-col gap-10 p-8 bg-blue-500/5 sm:rounded-4xl;
 }
